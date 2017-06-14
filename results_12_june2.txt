@@ -1,0 +1,37 @@
+
+=========totally_filtered============
+***sliding window size 0 seconds***
+error window0
+precision 62.0259019426
+recall 2.41439394091
+finalfn 487808 finalfp 7389 finaltp 12069 final tn 7959943
+=========totally_filtered============
+***sliding window size 3 seconds***
+error window0
+precision 70.4401306938
+recall 6.54728515437
+finalfn 523124 finalfp 15380 finaltp 36650 final tn 7892028
+=========totally_filtered============
+***sliding window size 5 seconds***
+error window0
+precision 72.045424142
+recall 8.36081748682
+finalfn 531258 finalfp 18807 finaltp 48470 final tn 7868629
+=========totally_filtered============
+***sliding window size 7 seconds***
+error window0
+precision 72.9010476143
+recall 9.89095563284
+finalfn 535063 finalfp 21832 finaltp 58732 final tn 7851519
+=========totally_filtered============
+***sliding window size 10 seconds***
+error window0
+precision 73.6087018632
+recall 11.8418201517
+finalfn 537042 finalfp 25864 finaltp 72138 final tn 7832075
+=========totally_filtered============
+***sliding window size 15 seconds***
+error window0
+precision 74.1034587007
+recall 14.4633707199
+finalfn 536360 finalfp 31694 finaltp 90693 final tn 7808327
